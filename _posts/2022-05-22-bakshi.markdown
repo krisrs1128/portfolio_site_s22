@@ -1,0 +1,17 @@
+---
+layout: book
+title:  "Private Equity Investments Network"
+date:   2022-05-22 15:47:21 -0500
+categories: finance
+img: "/portfolio_site_s22/assets/thumbnails/bakshi.png"
+pdf: "/portfolio_site_s22/assets/pdfs/bakshi.pdf"
+---
+
+Private Equity Investments are always in the shadows moving big money around publicly traded
+companies. The aim of this portfolio is to shed light on the actions of these investment firms.
+Mapping out their vast empire of publicly traded companies is a step in facilitating a more openly
+traded market system. <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
