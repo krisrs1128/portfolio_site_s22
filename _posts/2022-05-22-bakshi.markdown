@@ -7,6 +7,8 @@ img: "/portfolio_site_s22/assets/thumbnails/bakshi.png"
 pdf: "/assets/pdfs/bakshi.pdf"
 ---
 
+<h3>Jaskaran Bakshi</h3>
+
 Private Equity Investments are always in the shadows moving big money around publicly traded
 companies. The aim of this portfolio is to shed light on the actions of these investment firms.
 Mapping out their vast empire of publicly traded companies is a step in facilitating a more openly
