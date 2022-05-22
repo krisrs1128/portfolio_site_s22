@@ -3,7 +3,7 @@ layout: book
 title:  "Student Test Scores"
 date:   2022-05-22 15:47:21 -0500
 categories: sports
-img: "/assets/thumbnails/asoh.png"
+img: "/portfolio_site_s22/assets/thumbnails/asoh.png"
 ---
 
 Societal factors impact us all more than we think. Societal factors can heavily influence
