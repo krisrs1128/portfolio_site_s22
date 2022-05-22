@@ -4,7 +4,7 @@ title:  "Private Equity Investments Network"
 date:   2022-05-22 15:47:21 -0500
 categories: finance
 img: "/portfolio_site_s22/assets/thumbnails/bakshi.png"
-pdf: "/portfolio_site_s22/assets/pdfs/bakshi.pdf"
+pdf: "/assets/pdfs/bakshi.pdf"
 ---
 
 Private Equity Investments are always in the shadows moving big money around publicly traded
