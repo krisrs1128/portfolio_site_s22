@@ -9,11 +9,12 @@ pdf: "/assets/pdfs/lassiter.pdf"
 
 <b>Author: Dayne Lassiter</b>
 
-Description: These visualizations seek to understand the relationship between
+<b><a href="{{ page.pdf | relative_url }}">Link</a></b>
+
+These visualizations seek to understand the relationship between
 total medical expenditures and race, controlling for other variables. The data
 are a sample from a larger dataset on Medical Expenditures Panel Survey (MEPS).
 These graphics explore the relationship within these data.
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

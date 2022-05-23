@@ -8,8 +8,9 @@ img: "/portfolio_site_s22/assets/thumbnails/lamping.png"
 
 <b>Author: Mikayla Lamping</b>
 
-Description: This project is an interactive visualization of trends in the United States’ milk production throughout the past 50 years. Its intent is to allow users to explore how various factors relating to milk production have changed over time to gain a better understanding of the milk industry.
-<a href="https://data-viz.it.wisc.edu/content/aea80c80-a078-4825-a1c6-489719a70286">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/aea80c80-a078-4825-a1c6-489719a70286">Link</a></b>
+
+This project is an interactive visualization of trends in the United States’ milk production throughout the past 50 years. Its intent is to allow users to explore how various factors relating to milk production have changed over time to gain a better understanding of the milk industry.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -8,8 +8,9 @@ img: "/portfolio_site_s22/assets/thumbnails/kornley.png"
 
 <b>Author: Michael Kornley</b>
 
-Description: This interactive spatial visualization tries to help viewers understand what metrics are factoring into people not getting vaccinated in the state of Wisconsin. This Leaflet allows you to interact with each county, colored by either the 2020 election results or COVID Vaccination data, to get more demographic information that may or may not factor into the decision to get vaccinated.
-<a href="https://data-viz.it.wisc.edu/content/f11cc765-1e53-4e06-a732-b78eddaca3ce">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/f11cc765-1e53-4e06-a732-b78eddaca3ce">Link</a></b>
+
+This interactive spatial visualization tries to help viewers understand what metrics are factoring into people not getting vaccinated in the state of Wisconsin. This Leaflet allows you to interact with each county, colored by either the 2020 election results or COVID Vaccination data, to get more demographic information that may or may not factor into the decision to get vaccinated.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
