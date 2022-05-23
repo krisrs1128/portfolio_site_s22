@@ -8,7 +8,9 @@ img: "/portfolio_site_s22/assets/thumbnails/sunh.png"
 
 <b>Author: Haoxuan Sun</b>
 
-Description: My interest of this visualization is to find out the pattern within
+<b><a href="https://data-viz.it.wisc.edu/content/0fbc8d7a-6d69-49df-80ab-4f9a4f96cb69">Read the portfolio by clicking here.</a></b>
+
+My interest of this visualization is to find out the pattern within
 meteorite landing across the world and in the U.S. The dataset is from Kaggle
 and containing name, id, type, class, mass, whether the landing is observed,
 year, and coordinates. My visualization contains two parts: Visualization of
@@ -30,7 +32,6 @@ is the number of observed and found meteors differ. I convert original data
 frame into a time series and visualizing it with `geom_line()` with faceting by
 its landing is seen or not. Since there are far more meteors that are found than
 seen, I choose the free scales to make the height of the graph visible.
-<a href="https://data-viz.it.wisc.edu/content/0fbc8d7a-6d69-49df-80ab-4f9a4f96cb69">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

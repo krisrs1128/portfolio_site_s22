@@ -8,19 +8,19 @@ img: "/portfolio_site_s22/assets/thumbnails/yangjina.png"
 
 <b>Author: Jina Yang</b>
 
-<em>
-  <a href="https://data-viz.it.wisc.edu/content/2da95cc4-7b67-4aa2-b0e5-b557ad9c5d71">Link</a>
-</em>
+<b>
+  <a href="https://data-viz.it.wisc.edu/content/2da95cc4-7b67-4aa2-b0e5-b557ad9c5d71">Click here to visit the interactive app.</a>
+</b>
 
 
-Description: (Figure 1) The type of attacks that led to deaths in each country are aligned
-by the number (or percent) of deaths on the y-axis. Select a specific two years
-and compare them. It is possible to know which type of attack caused the death toll in the year.
-(Figure 2) On the world map, the location of the terrorist attack are marked in
-different colors depending on the type of attack. The area that has been
-attacked a lot has a darker cluster color, and if you click the cluster, the map
-will be zoomed in. Click a specific point in the enlarged area to pop up
-additional information.
+(Figure 1) The type of attacks that led to deaths in each country are aligned by
+the number (or percent) of deaths on the y-axis. Select a specific two years and
+compare them. It is possible to know which type of attack caused the death toll
+in the year. (Figure 2) On the world map, the location of the terrorist attack
+are marked in different colors depending on the type of attack. The area that
+has been attacked a lot has a darker cluster color, and if you click the
+cluster, the map will be zoomed in. Click a specific point in the enlarged area
+to pop up additional information.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

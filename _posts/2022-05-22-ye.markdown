@@ -8,12 +8,14 @@ pdf: "/assets/pdfs/ye.html"
 ---
 
 <b>Author: Wen Ye</b>
-Description: The visualizations aim to explore how the interaction between
+
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+The visualizations aim to explore how the interaction between
 people changed throughout the  year of 2021 in terms of their social distance in
 the United States. The interaction between  people is quantified by the Close
 Contact Index(CCI) which measures if two or more devices  come within 50 feet of
 each other within a five minute time period.
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -8,13 +8,14 @@ img: "/portfolio_site_s22/assets/thumbnails/xuh.png"
 
 <b>Author: Huan Xu</b>
 
-Description: This project explores how U.S. academic institutions contribute to
-the open-source community by visualizing their efforts and interests on GitHub.
-The broad open-source collaboration landscape across institutions is also
-explored as an inter-connected “social network”. The visualization and analysis
-of these projects are based on the data from Google’s public data warehouse
+<b><a href="https://data-viz.it.wisc.edu/content/873cb8b2-04a4-43d9-8b4a-e3eb3cf2946b">Click here to visit the interactive app.</a></b>
+
+This project explores how U.S. academic institutions contribute to the
+open-source community by visualizing their efforts and interests on GitHub. The
+broad open-source collaboration landscape across institutions is also explored
+as an inter-connected “social network”. The visualization and analysis of these
+projects are based on the data from Google’s public data warehouse
 “github-repos”, which provides weekly updated data fresh from GitHub.
-<a href="https://data-viz.it.wisc.edu/content/873cb8b2-04a4-43d9-8b4a-e3eb3cf2946b">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

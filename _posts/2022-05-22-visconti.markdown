@@ -9,10 +9,11 @@ pdf: "/assets/pdfs/visconti.html"
 
 <b>Author: Michael Visconti</b>
 
-Description: In these visualizations we explore the speech dynamics of popular
-South Park characters. The visualizations explore Kenny’s vocabulary and the
-relationship between Stan and Kyle’s spoke lines per episode.
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+In these visualizations we explore the speech dynamics of popular South Park
+characters. The visualizations explore Kenny’s vocabulary and the relationship
+between Stan and Kyle’s spoke lines per episode.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

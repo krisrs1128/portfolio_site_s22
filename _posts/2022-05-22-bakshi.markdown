@@ -9,7 +9,7 @@ pdf: "/assets/pdfs/bakshi.pdf"
 
 <b>Author: Jaskaran Bakshi</b>
 
-<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here</a></b>
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
 
 Private Equity Investments are always in the shadows moving big money around publicly traded
 companies. The aim of this portfolio is to shed light on the actions of these investment firms.

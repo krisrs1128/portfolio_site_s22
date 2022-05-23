@@ -9,11 +9,12 @@ pdf: "/assets/pdfs/sunz.pdf"
 
 <b>Author: Zhongxuan Sun</b>
 
-Description: The two visualizations show the relationship between the students’
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+The two visualizations show the relationship between the students’
 background, characteristics, and math grades. It contains a scatter + box plot
 and a correlation plot displaying the significant correlations at a level of
 0.05.
- <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -8,12 +8,13 @@ img: "/portfolio_site_s22/assets/thumbnails/park.png"
 
 <b>Author: Hailey Park</b>
 
-Description: This application allows users to compare seasonal trends in major social media stocks
-from 2012 to 2022. Users can select two social media companies whose stocks they’re interested
-in exploring and a variable that will be mapped on the y-axis. Users can also filter years they’re
-interested in based on which the line graph of yearly trend and the boxplot of monthly trends will
-be drawn.
-<a href="https://data-viz.it.wisc.edu/content/cb52edff-c1d7-4620-b49b-5ed658f38bd7">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/cb52edff-c1d7-4620-b49b-5ed658f38bd7">Click here to visit the interactive app.</a></b>
+
+This application allows users to compare seasonal trends in major social media
+stocks from 2012 to 2022. Users can select two social media companies whose
+stocks they’re interested in exploring and a variable that will be mapped on the
+y-axis. Users can also filter years they’re interested in based on which the
+line graph of yearly trend and the boxplot of monthly trends will be drawn.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

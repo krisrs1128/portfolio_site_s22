@@ -8,10 +8,13 @@ img: "/portfolio_site_s22/assets/thumbnails/yu.png"
 
 <b>Author: Zeyang Yu</b>
 
+<b><a href="https://data-viz.it.wisc.edu/content/a91302c7-e69e-494f-8403-c89d6bccc49a">Click here to visit the interactive app.</a></b>
+
 Description: Users can use this Shiny App to select single or multiple stocks to
 compare  with one of two benchmarks or without benchmark. The comparison allows
 the users to see how  the stock is performing relative to the overall stock
-market and the trend of this stock. <a href="https://data-viz.it.wisc.edu/content/a91302c7-e69e-494f-8403-c89d6bccc49a">Click here to visit the interactive app.</a>
+market and the trend of this stock.
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

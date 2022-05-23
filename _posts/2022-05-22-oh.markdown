@@ -8,10 +8,11 @@ img: "/portfolio_site_s22/assets/thumbnails/oh.png"
 
 <b>Author: Chaiyeen Oh</b>
 
-Description: My project is about the Sales and profits of Superstore in the
+<b><a href="https://data-viz.it.wisc.edu/content/afd9a1fb-f11e-4a4e-b3fc-454a2956b71b">Click here to visit the interactive app.</a></b>
+
+My project is about the Sales and profits of Superstore in the
 United States. Click to find out more about the purchase patterns for each
 State!
-<a href="https://data-viz.it.wisc.edu/content/afd9a1fb-f11e-4a4e-b3fc-454a2956b71b">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -9,9 +9,11 @@ pdf: "/assets/pdfs/ng.html"
 
 <b>Author: Sherman Ng</b>
 
-Description: I’m investigating the hitting charts of Minnesota Twins outfielder Byron
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+I’m investigating the hitting charts of Minnesota Twins outfielder Byron
 Buxton. I used data from BaseballSavant.com in order to create some visualizations of
-Buxton’s hits in the 2021 season. <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+Buxton’s hits in the 2021 season.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

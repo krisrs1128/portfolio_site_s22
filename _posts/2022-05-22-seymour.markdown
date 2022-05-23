@@ -8,14 +8,15 @@ img: "/portfolio_site_s22/assets/thumbnails/seymour.png"
 
 <b>Author: Catherine Seymour</b>
 
-Description: The data I found contains a record of people who have died or gone
-missing during the process of migration to an international destination. This
-dataset is a very important resource to use when trying to find missing people
-or finding patterns in migration incidents. These missing people may never be
-found without the records documenting when and how they went missing. This is a
-global dataset that includes information about where people are migrating to,
-how they died or went missing, and many more details about their disappearance.
-<a href="https://data-viz.it.wisc.edu/content/67423141-f2a9-4b95-a66e-664b03f5fb73">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/67423141-f2a9-4b95-a66e-664b03f5fb73">Click here to visit the interactive app.</a></b>
+
+The data I found contains a record of people who have died or gone missing
+during the process of migration to an international destination. This dataset is
+a very important resource to use when trying to find missing people or finding
+patterns in migration incidents. These missing people may never be found without
+the records documenting when and how they went missing. This is a global dataset
+that includes information about where people are migrating to, how they died or
+went missing, and many more details about their disappearance.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

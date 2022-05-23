@@ -8,11 +8,12 @@ img: "/portfolio_site_s22/assets/thumbnails/peng.png"
 
 <b>Author: Yuliang Peng</b>
 
-Description: The main purpose of this visualization is to investigate the
-state-based conflict incidents happened after WW II around the world. It
-implements Shiny app and allows users to see the interactions between countries
-from different regions.
-<a href="https://data-viz.it.wisc.edu/content/2f9664c4-8ac8-4b07-9493-4858fe386e33">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/2f9664c4-8ac8-4b07-9493-4858fe386e33">Click here to visit the interactive app.</a></b>
+
+The main purpose of this visualization is to investigate the state-based
+conflict incidents happened after WW II around the world. It implements Shiny
+app and allows users to see the interactions between countries from different
+regions.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

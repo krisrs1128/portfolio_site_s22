@@ -9,13 +9,13 @@ pdf: "/assets/pdfs/yangray.html"
 
 <b>Author: Binrui Yang</b>
 
-Description: Data Science is one of the fastest-growing job in 21st century, it is a popular and lucrative profession. As a college student who wants to pursue a career in Data Science/Analytics, analyzing this dataset will help me better prepare myself for my future job.
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+Data Science is one of the fastest-growing job in 21st century, it is a popular and lucrative profession. As a college student who wants to pursue a career in Data Science/Analytics, analyzing this dataset will help me better prepare myself for my future job.
 
   * For the first plot, I am curious to see which state has the most total number of data science related jobs.
   * For the second plot, I want to analyze whether different job positions might lead to different salary in each state.
   * For the third plot, I want to analyze whether different job positions have different requirement for skills.
-
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

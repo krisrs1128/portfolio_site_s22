@@ -7,12 +7,14 @@ img: "/portfolio_site_s22/assets/thumbnails/young.png"
 ---
 
 <b>Author: David Young</b>
-Description: My goal with this app was to determine how much user and critic
+
+<b><a href="https://dfyoung2.shinyapps.io/gaming/">Click here to visit the interactive app.</a></b>
+
+My goal with this app was to determine how much user and critic
 scores differed and look at which publishers/ developers create high quality
 games from a users’ (gamers’) perspective. I was also interested in which
 developers worked with any given publisher and how many copies of their game
 they were able to sell and quantify how successful an individual game was.
-<a href="https://dfyoung2.shinyapps.io/gaming/">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -9,10 +9,12 @@ pdf: "/assets/pdfs/wuyuning.html"
 
 <b>Author: Yuning Wu</b>
 
-Description: This visualization aims to compare the relationship between growth
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+This visualization aims to compare the relationship between growth
 potential in professional soccer players and their age, while simultaneously
 compare how the positions they play on the field has an effect. The facets are
-ordered by descending the median of growth. <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+ordered by descending the median of growth.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -7,10 +7,14 @@ img: "/portfolio_site_s22/assets/thumbnails/yin.png"
 ---
 
 <b>Author: Yue Yin</b>
-Description: The portfolio project aims at exploring video game sales and
+
+<b><a href="https://data-viz.it.wisc.edu/content/1d643470-7b6e-4be6-bac9-4147f5c3d417">Read the portfolio by clicking here.</a></b>
+
+The portfolio project aims at exploring video game sales and
 ratings in different regions and  genres. There are two main graphs with several
 subgraphs. We can find out consumer  preferences across different regions or
-genres, or mix of the two. <a href="https://data-viz.it.wisc.edu/content/1d643470-7b6e-4be6-bac9-4147f5c3d417">Read the portfolio by clicking here.</a>
+genres, or mix of the two.
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -9,8 +9,13 @@ pdf: "/assets/pdfs/voss.pdf"
 
 <b>Author: Matthew Voss</b>
 
-Description: This visualization shows the abortion and pregnancy rates from 1988 to 2016 in the United States. It shows abortion and pregnancy rates first through the years as a heatmap to show individual years. Then the bottom plot is a bivariate choropleth map showing the rates as an aggregate over the years in proportion to the two rates per state.
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+This visualization shows the abortion and pregnancy rates from 1988 to 2016 in
+the United States. It shows abortion and pregnancy rates first through the years
+as a heatmap to show individual years. Then the bottom plot is a bivariate
+choropleth map showing the rates as an aggregate over the years in proportion to
+the two rates per state.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

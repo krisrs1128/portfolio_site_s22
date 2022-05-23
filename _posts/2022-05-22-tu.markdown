@@ -8,10 +8,11 @@ img: "/portfolio_site_s22/assets/thumbnails/tu.png"
 
 <b>Author: Andrew Tu</b>
 
-Description: This shiny web app allows the user to find Michelin awarded
-restaurants. Several interactivity options  are provided, including checkboxes
-and a selectinput box, along with a map and linked datatable for  searching.
-<a href="https://data-viz.it.wisc.edu/content/320d42f0-c66b-456f-84e3-bcb4ea84dcfb">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/320d42f0-c66b-456f-84e3-bcb4ea84dcfb">Click here to visit the interactive app.</a></b>
+
+This shiny web app allows the user to find Michelin awarded restaurants. Several
+interactivity options  are provided, including checkboxes and a selectinput box,
+along with a map and linked datatable for  searching.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

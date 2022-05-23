@@ -8,11 +8,12 @@ img: "/portfolio_site_s22/assets/thumbnails/wuyuke.png"
 
 <b>Author: Yuke Wu</b>
 
-Description: Since 2011, the Trust for Public Land ranks each city by measuring
+<b><a href="https://data-viz.it.wisc.edu/content/0438586b-7ea4-49ae-a4ce-493604cb4e4c">Read the portfolio by clicking here.</a></b>
+
+Since 2011, the Trust for Public Land ranks each city by measuring
 how well cities are meeting  their residents’ needs for parks. This portfolio
 investigates what essential qualities will raise a  city’s ranking for its park
 quality. We also like to know how stable each city ranks.
-<a href="https://data-viz.it.wisc.edu/content/0438586b-7ea4-49ae-a4ce-493604cb4e4c">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
