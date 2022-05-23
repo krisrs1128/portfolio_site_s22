@@ -1,22 +1,19 @@
 ---
 layout: book
-title: Heart Disease Data Exploration
+title: Close Contact Index during the COVID-19 Pandemic
 date: 2022-05-22 15:47:21 -0500
 categories: health
 img: "/portfolio_site_s22/assets/thumbnails/ye.png"
+pdf: "/assets/pdfs/ye.html"
 ---
 
 <b>Author: Wen Ye</b>
-Description:
-<a href="https://data-viz.it.wisc.edu/content/320d42f0-c66b-456f-84e3-bcb4ea84dcfb">Click here to visit the interactive app.</a>
-
-
-Description: As the largest single cause of death on the planet, heart disease
-is an important and life or death  matter. With increasing number of people of
-being diagnosed of heart disease all over the world,  it is paramount to study
-the symptoms correlates with the disease as well as identify the  population
-that is susceptible to this kind of disease for early prevention.  
-<a href="https://data-viz.it.wisc.edu/content/1ee7f02b-1c91-4110-8f7c-aa93137bd168">Read the portfolio by clicking here.</a>
+Description: The visualizations aim to explore how the interaction between
+people changed throughout the  year of 2021 in terms of their social distance in
+the United States. The interaction between  people is quantified by the Close
+Contact Index(CCI) which measures if two or more devices  come within 50 feet of
+each other within a five minute time period.
+<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
