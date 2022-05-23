@@ -1,14 +1,20 @@
 ---
 layout: book
-title: Heart Disease Data Exploration
+title: Marvel Universe Network Visualization
 date: 2022-05-22 15:47:21 -0500
-categories: health
+categories: entertainment
 img: "/portfolio_site_s22/assets/thumbnails/zhu.png"
 ---
 
 <b>Author: Sijia Zhu</b>
+
 Description:
-<a href="https://data-viz.it.wisc.edu/content/320d42f0-c66b-456f-84e3-bcb4ea84dcfb">Click here to visit the interactive app.</a>
+
+* For this project, I built a Shiny application demonstrating the relationship network of selected heroes in Marvel films using ‘ggraph’ and a data table explaining how the relationship is connected.
+* The dataset is obtained from Github. It contains network data for the relationships within the Marvel comic book universe (beginning in 1961 and ending around 1999/2000).
+* This visualization aims to explore the structure of the Marvel universe to see how every character is closely connected with each other. Moreover, based on users’ interest, they can choose the specific character or film to see the network.
+
+<a href="https://data-viz.it.wisc.edu/content/253d091e-a7a4-49d0-a187-e234365e2833">Click here to visit the interactive app.</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

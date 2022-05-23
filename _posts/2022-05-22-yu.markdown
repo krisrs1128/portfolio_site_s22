@@ -1,22 +1,17 @@
 ---
 layout: book
-title: Heart Disease Data Exploration
+title: Stock Price Analysis
 date: 2022-05-22 15:47:21 -0500
-categories: health
+categories: finance
 img: "/portfolio_site_s22/assets/thumbnails/yu.png"
 ---
 
 <b>Author: Zeyang Yu</b>
-Description:
-<a href="https://data-viz.it.wisc.edu/content/320d42f0-c66b-456f-84e3-bcb4ea84dcfb">Click here to visit the interactive app.</a>
 
-
-Description: As the largest single cause of death on the planet, heart disease
-is an important and life or death  matter. With increasing number of people of
-being diagnosed of heart disease all over the world,  it is paramount to study
-the symptoms correlates with the disease as well as identify the  population
-that is susceptible to this kind of disease for early prevention.  
-<a href="https://data-viz.it.wisc.edu/content/1ee7f02b-1c91-4110-8f7c-aa93137bd168">Read the portfolio by clicking here.</a>
+Description: Users can use this Shiny App to select single or multiple stocks to
+compare  with one of two benchmarks or without benchmark. The comparison allows
+the users to see how  the stock is performing relative to the overall stock
+market and the trend of this stock. <a href="https://data-viz.it.wisc.edu/content/a91302c7-e69e-494f-8403-c89d6bccc49a">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

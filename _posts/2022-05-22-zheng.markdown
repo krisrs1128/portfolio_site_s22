@@ -1,22 +1,19 @@
 ---
 layout: book
-title: Heart Disease Data Exploration
+title: NBA Shooting Analysis
 date: 2022-05-22 15:47:21 -0500
-categories: health
+categories: sports
 img: "/portfolio_site_s22/assets/thumbnails/zheng.png"
 ---
 
 <b>Author: Zhi Zheng</b>
-Description:
-<a href="https://data-viz.it.wisc.edu/content/320d42f0-c66b-456f-84e3-bcb4ea84dcfb">Click here to visit the interactive app.</a>
 
-
-Description: As the largest single cause of death on the planet, heart disease
-is an important and life or death  matter. With increasing number of people of
-being diagnosed of heart disease all over the world,  it is paramount to study
-the symptoms correlates with the disease as well as identify the  population
-that is susceptible to this kind of disease for early prevention.  
-<a href="https://data-viz.it.wisc.edu/content/1ee7f02b-1c91-4110-8f7c-aa93137bd168">Read the portfolio by clicking here.</a>
+Description: This project implements visualizations with interactions for users
+to learn and discover the basic summary statistics and interesting trends and
+habits about 3-point shooters in NBA for 2020 season. There are 3 major tabs.
+The second tab visualizes all the statistics for all players while the third tab
+aims to visualize a specific player. Hope you enjoy the app!
+<a href="https://data-viz.it.wisc.edu/content/e6d39966-3679-47aa-8cdd-91dad27c6130">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
