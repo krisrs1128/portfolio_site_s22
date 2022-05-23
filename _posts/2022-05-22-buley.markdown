@@ -1,18 +1,16 @@
 ---
 layout: book
-title:  "World Happiness"
+title:  "Starbucks"
 date:   2022-05-22 15:47:21 -0500
 categories: health
-img: "/portfolio_site_s22/assets/thumbnails/bhutada.png"
+img: "/portfolio_site_s22/assets/thumbnails/buley.png"
 ---
 
-<b>Author: Neil Bhutada</b>
+<b>Author: Kelsey Buley</b>
 
-Description: The World Happiness Report 2022 app allows the user to analyze the
-happiness scores  around the world. The user can see happiness score
-distributions on the histogram and world map
-and see the break-down of the scores in the data table. <a href="https://neilbhutada.shinyapps.io/Portfolio-3/">Click here to visit the
-interactive app.</a>
+Description: A histogram depicting the total fat content by type of milk used of Grande Starbucks
+drinks.  A scatterplot depicting the total calories vs. sugar content by type of milk used of
+Grande Starbucks drinks. <a href="https://data-viz.it.wisc.edu/connect/#/apps/04eb92ed-4306-4733-ac04-dfafb3e851b2/access/93">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
