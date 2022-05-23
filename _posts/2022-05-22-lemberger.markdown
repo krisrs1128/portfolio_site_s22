@@ -3,14 +3,12 @@ layout: book
 title:  ""
 date:   2022-05-22 15:47:21 -0500
 categories:
-img: "/portfolio_site_s22/assets/thumbnails/guan.png"
+img: "/portfolio_site_s22/assets/thumbnails/lemberger.png"
 ---
 
-<b>Author: Yijin Guan</b>
+<b>Author: Jackson Lemberger</b>
 
-Description: This dataset is a collection of artworks of the 50 most influential artists of all time. The two
-visualizations in the form of node-link diagrams are to compare the genres with the artists
-and their nationalities.
+Description:
 <a href="https://data-viz.it.wisc.edu/content/4fb174b7-0dfa-4dfd-862b-a7c064e73982">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
