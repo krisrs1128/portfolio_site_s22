@@ -1,19 +1,20 @@
 ---
 layout: book
-title: Heart Disease Data Exploration
+title: Universities and Github
 date: 2022-05-22 15:47:21 -0500
-categories: health
+categories: education
 img: "/portfolio_site_s22/assets/thumbnails/xuh.png"
 ---
 
 <b>Author: Huan Xu</b>
 
-Description: As the largest single cause of death on the planet, heart disease
-is an important and life or death  matter. With increasing number of people of
-being diagnosed of heart disease all over the world,  it is paramount to study
-the symptoms correlates with the disease as well as identify the  population
-that is susceptible to this kind of disease for early prevention.  
-<a href="https://data-viz.it.wisc.edu/content/1ee7f02b-1c91-4110-8f7c-aa93137bd168">Read the portfolio by clicking here.</a>
+Description: This project explores how U.S. academic institutions contribute to
+the open-source community by visualizing their efforts and interests on GitHub.
+The broad open-source collaboration landscape across institutions is also
+explored as an inter-connected “social network”. The visualization and analysis
+of these projects are based on the data from Google’s public data warehouse
+“github-repos”, which provides weekly updated data fresh from GitHub.
+<a href="https://data-viz.it.wisc.edu/content/873cb8b2-04a4-43d9-8b4a-e3eb3cf2946b">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

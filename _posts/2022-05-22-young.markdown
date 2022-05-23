@@ -7,6 +7,9 @@ img: "/portfolio_site_s22/assets/thumbnails/young.png"
 ---
 
 <b>Author: David Young</b>
+Description:
+<a href="https://data-viz.it.wisc.edu/content/320d42f0-c66b-456f-84e3-bcb4ea84dcfb">Click here to visit the interactive app.</a>
+
 
 Description: As the largest single cause of death on the planet, heart disease
 is an important and life or death  matter. With increasing number of people of

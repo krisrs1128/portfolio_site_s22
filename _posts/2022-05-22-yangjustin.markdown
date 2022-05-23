@@ -1,19 +1,16 @@
 ---
 layout: book
-title: Heart Disease Data Exploration
+title: Sprint Speed of MLB Players during the 2021 Season
 date: 2022-05-22 15:47:21 -0500
-categories: health
+categories: sports
 img: "/portfolio_site_s22/assets/thumbnails/yangjustin.png"
 ---
 
 <b>Author: Justin Yang</b>
 
-Description: As the largest single cause of death on the planet, heart disease
-is an important and life or death  matter. With increasing number of people of
-being diagnosed of heart disease all over the world,  it is paramount to study
-the symptoms correlates with the disease as well as identify the  population
-that is susceptible to this kind of disease for early prevention.  
-<a href="https://data-viz.it.wisc.edu/content/1ee7f02b-1c91-4110-8f7c-aa93137bd168">Read the portfolio by clicking here.</a>
+Description: A simple pair of interactive visualizations that allows the user to explore the distribution of the
+sprint speed of players across Major League Baseball in the 2021 season. The app utilizes data
+provided by Baseball Savant and graphs it both by team and individual players. <a href="https://data-viz.it.wisc.edu/content/74678675-29ba-4c8d-9869-311ff860c8b1">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
