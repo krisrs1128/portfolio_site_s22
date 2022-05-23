@@ -8,7 +8,10 @@ img: "/portfolio_site_s22/assets/thumbnails/fan.png"
 
 <b>Author: Ruochong Fan</b>
 
-Description: This project plots geographic COVID deaths in the world and colors by state. The time series plot presents the daily deaths of the chosen country. The barplot shows a country's sum of death from Jan 22, 2020 to May 29, 2021. <a href="https://data-viz.it.wisc.edu/content/57adb0dd-b47b-48a9-863c-d4b7c6890765">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/57adb0dd-b47b-48a9-863c-d4b7c6890765">Click here to visit the interactive app.</a></b>
+
+This project plots geographic COVID deaths in the world and colors by state. The time series plot presents the daily deaths of the chosen country. The barplot shows a country's sum of death from Jan 22, 2020 to May 29, 2021.
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

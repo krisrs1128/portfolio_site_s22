@@ -8,10 +8,11 @@ img: "/portfolio_site_s22/assets/thumbnails/kim.png"
 
 <b>Author: Nalin Kim</b>
 
-Description: The visualization shows California housing prices. The interactive map is meant to help
-users understand the relationship between location, median house value, and the median income
-of the household.
-<a href="https://data-viz.it.wisc.edu/content/793b7030-d1f2-4dbc-b91f-eaa57632c7bb">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/793b7030-d1f2-4dbc-b91f-eaa57632c7bb">Click here to visit the interactive app.</a></b>
+
+The visualization shows California housing prices. The interactive map is meant
+to help users understand the relationship between location, median house value,
+and the median income of the household.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

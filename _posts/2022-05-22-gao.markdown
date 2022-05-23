@@ -8,10 +8,12 @@ img: "/portfolio_site_s22/assets/thumbnails/gao.png"
 
 <b>Author: Jiayi Gao</b>
 
-Description: This portfolio aims to explore the general distribution and overall trend of the electric power
+<b><a href="https://data-viz.it.wisc.edu/content/8765ac98-f394-4029-bd43-6daaa5ff4f62">Read the portfolio by clicking here.</a></b>
+
+This portfolio aims to explore the general distribution and overall trend of the electric power
 generators in the United States. In addition, some of the plots summarize the information content
 in this large dataset by showing the correlation of principal components and the technologies of
-the electric power generators. <a href="https://data-viz.it.wisc.edu/content/8765ac98-f394-4029-bd43-6daaa5ff4f62">Read the portfolio by clicking here.</a>
+the electric power generators.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

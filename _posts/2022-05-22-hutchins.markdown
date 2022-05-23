@@ -8,11 +8,12 @@ img: "/portfolio_site_s22/assets/thumbnails/hutchins.png"
 
 <b>Author: Kevin Hutchins</b>
 
-Description: This project examines the relationship between election results and the impact of
+<b><a href="https://data-viz.it.wisc.edu/content/77b68901-5a10-4d72-a4c0-7044a0cb9d6c">Click here to visit the interactive app.</a></b>
+
+This project examines the relationship between election results and the impact of
 Covid-19. In particular, it examines how many people in each state became infected or died due
 to Covid-19, and compared that to the state’s outcome in the 2020 election. It features an
 interactive graph to watch the Covid-19 disease spread over the country over a two year period.
-<a href="https://data-viz.it.wisc.edu/content/77b68901-5a10-4d72-a4c0-7044a0cb9d6c">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

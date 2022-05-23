@@ -9,10 +9,11 @@ pdf: "/assets/pdfs/guan.pdf"
 
 <b>Author: Yijin Guan</b>
 
-Description: This dataset is a collection of artworks of the 50 most influential artists of all time. The two
-visualizations in the form of node-link diagrams are to compare the genres with the artists
-and their nationalities.
- <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+This dataset is a collection of artworks of the 50 most influential artists of
+all time. The two visualizations in the form of node-link diagrams are to
+compare the genres with the artists and their nationalities.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

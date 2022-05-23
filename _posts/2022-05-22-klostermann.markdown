@@ -9,7 +9,7 @@ img: "/portfolio_site_s22/assets/thumbnails/klostermann.png"
 <b>Author: Caitlyn Klostermann</b>
 
 <b>
-<a href="https://data-viz.it.wisc.edu/content/e6e08ab1-330e-4727-9a0c-8c54721c4e26">Link</a>
+<a href="https://data-viz.it.wisc.edu/content/e6e08ab1-330e-4727-9a0c-8c54721c4e26">Click here to visit the interactive app.</a>
 </b>
 
 Generally, women in Wisconsin make $0.85 to every $1 that men make. It is

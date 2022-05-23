@@ -9,11 +9,12 @@ pdf: "/assets/pdfs/jenings.html"
 
 <b>Author: Owen Jennings</b>
 
-Description: This project analyzes State Minimum Wages across the US. The first visualization is a
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+This project analyzes State Minimum Wages across the US. The first visualization is a
 scale of all the states’ minimum wages on a map. The lighter the blue, the higher the
 minimum wage. The second visualization is a graph of California’s minimum wage from
 1970-2020.
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -9,7 +9,9 @@ pdf: "/assets/pdfs/han.pdf"
 
 <b>Author: Yufeng Han</b>
 
-Description: I mentioned about how GRE Score and CGPA effect the Chance of admit.The graph shows that usually higher GRE Grade and high CGPA will get higher chance of admit. But the color didn’t very obvious. So i want to make a graph which contain GRE Score,University rating and the Chance of Admit. In this new graph.its clearly see that higher university rating and higher GRE Score can get the higher Chance of Admit. I think in this visualization compare to the first graph, i got the new title. Audience can easily understand what i want to show. Also, its better to understand throw the graph. <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+I mentioned about how GRE Score and CGPA effect the Chance of admit.The graph shows that usually higher GRE Grade and high CGPA will get higher chance of admit. But the color didn’t very obvious. So i want to make a graph which contain GRE Score,University rating and the Chance of Admit. In this new graph.its clearly see that higher university rating and higher GRE Score can get the higher Chance of Admit. I think in this visualization compare to the first graph, i got the new title. Audience can easily understand what i want to show. Also, its better to understand throw the graph.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

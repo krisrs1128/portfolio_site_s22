@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/portfolio_site_s22/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio_site_s22/" rel="alternate" type="text/html" /><updated>2022-05-23T15:54:22-05:00</updated><id>http://localhost:4000/portfolio_site_s22/feed.xml</id><title type="html">Visualization Portfolio - STAT 479 Spring 2022</title><subtitle>Student visualizations from the Spring 2022 edition of Statistical Data Visualization at UW Madison.</subtitle><entry><title type="html">Marvel Universe Network Visualization</title><link href="http://localhost:4000/portfolio_site_s22/entertainment/2022/05/22/zhu.html" rel="alternate" type="text/html" title="Marvel Universe Network Visualization" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/entertainment/2022/05/22/zhu</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/entertainment/2022/05/22/zhu.html"><![CDATA[<p><b>Author: Sijia Zhu</b></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/portfolio_site_s22/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio_site_s22/" rel="alternate" type="text/html" /><updated>2022-05-23T16:05:10-05:00</updated><id>http://localhost:4000/portfolio_site_s22/feed.xml</id><title type="html">Visualization Portfolio - STAT 479 Spring 2022</title><subtitle>Student visualizations from the Spring 2022 edition of Statistical Data Visualization at UW Madison.</subtitle><entry><title type="html">Marvel Universe Network Visualization</title><link href="http://localhost:4000/portfolio_site_s22/entertainment/2022/05/22/zhu.html" rel="alternate" type="text/html" title="Marvel Universe Network Visualization" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/entertainment/2022/05/22/zhu</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/entertainment/2022/05/22/zhu.html"><![CDATA[<p><b>Author: Sijia Zhu</b></p>
 
 <p>Description:</p>
 
@@ -10,63 +10,78 @@
 
 <p><a href="https://data-viz.it.wisc.edu/content/253d091e-a7a4-49d0-a187-e234365e2833">Click here to visit the interactive app.</a></p>]]></content><author><name></name></author><category term="entertainment" /><summary type="html"><![CDATA[Author: Sijia Zhu]]></summary></entry><entry><title type="html">Private Equity Investments Network</title><link href="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/bakshi.html" rel="alternate" type="text/html" title="Private Equity Investments Network" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/finance/2022/05/22/bakshi</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/bakshi.html"><![CDATA[<p><b>Author: Jaskaran Bakshi</b></p>
 
-<p><b><a href="/portfolio_site_s22/assets/pdfs/bakshi.pdf">Link</a></b></p>
+<p><b><a href="/portfolio_site_s22/assets/pdfs/bakshi.pdf">Read the portfolio by clicking here</a></b></p>
 
 <p>Private Equity Investments are always in the shadows moving big money around publicly traded
 companies. The aim of this portfolio is to shed light on the actions of these investment firms.
 Mapping out their vast empire of publicly traded companies is a step in facilitating a more openly
 traded market system.</p>]]></content><author><name></name></author><category term="finance" /><summary type="html"><![CDATA[Author: Jaskaran Bakshi]]></summary></entry><entry><title type="html">Uber and Lyft</title><link href="http://localhost:4000/portfolio_site_s22/tech/2022/05/22/battula.html" rel="alternate" type="text/html" title="Uber and Lyft" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/tech/2022/05/22/battula</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/tech/2022/05/22/battula.html"><![CDATA[<p><b>Author: Supraja Battula</b></p>
 
-<p>Description: Uber and Lyft have grown extremely popular, and my visualizations aim to show the
+<p><b><a href="https://data-viz.it.wisc.edu/connect/#/apps/9b1a0bc0-0fed-4fc7-8b72-859f8e10d7a4">Read the portfolio by clicking here.</a></b></p>
+
+<p>Uber and Lyft have grown extremely popular, and my visualizations aim to show the
 differences between the two major companies to see which is more affordable. On the top, the
 left graph shows which service is more widely used and, on the right, the plot shows the
 relationship between price and distance across various Boston locations. On the bottom, the left
 graph shows how price and distance are related for the various car types offered and the right
-shows a heatmap of how the surge multiplier is affected at various hours and destinations. <a href="https://data-viz.it.wisc.edu/connect/#/apps/9b1a0bc0-0fed-4fc7-8b72-859f8e10d7a4">Read the portfolio by clicking here.</a></p>]]></content><author><name></name></author><category term="tech" /><summary type="html"><![CDATA[Author: Supraja Battula]]></summary></entry><entry><title type="html">200 Popular Artists</title><link href="http://localhost:4000/portfolio_site_s22/arts/2022/05/22/bhandari.html" rel="alternate" type="text/html" title="200 Popular Artists" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/arts/2022/05/22/bhandari</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/arts/2022/05/22/bhandari.html"><![CDATA[<p><b>Author: Varsha Bhandari</b></p>
+shows a heatmap of how the surge multiplier is affected at various hours and destinations.</p>]]></content><author><name></name></author><category term="tech" /><summary type="html"><![CDATA[Author: Supraja Battula]]></summary></entry><entry><title type="html">200 Popular Artists</title><link href="http://localhost:4000/portfolio_site_s22/arts/2022/05/22/bhandari.html" rel="alternate" type="text/html" title="200 Popular Artists" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/arts/2022/05/22/bhandari</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/arts/2022/05/22/bhandari.html"><![CDATA[<p><b>Author: Varsha Bhandari</b></p>
 
-<p>Description: This visualization presents the top 200 most popular artists, based
+<p><b><a href="https://data-viz.it.wisc.edu/connect/#/apps/d9e1bb3d-57fa-41ea-b3e0-a60391f879d9">Read the portfolio by clicking here.</a></b></p>
+
+<p>This visualization presents the top 200 most popular artists, based
 on Billboard’s top 100, in a scatter plot of spotify popularity and the most
 number of weeks spent in Billboard’s top 100. The first scatter plot gives
 insight into the artists’ energy (fast/loud tracks score higher energy value)
 and danceability (0 being least danceable/groovy) in their overall music. The
 second scatter plot presents information about the artists’ valence (low valence
 being sad or negative) and speechiness (.3 being more rap and low value being
-close to instrumental music) in their overall music. <a href="https://data-viz.it.wisc.edu/connect/#/apps/d9e1bb3d-57fa-41ea-b3e0-a60391f879d9">Read the portfolio by clicking here.</a></p>]]></content><author><name></name></author><category term="arts" /><summary type="html"><![CDATA[Author: Varsha Bhandari]]></summary></entry><entry><title type="html">World Happiness</title><link href="http://localhost:4000/portfolio_site_s22/health/2022/05/22/bhutada.html" rel="alternate" type="text/html" title="World Happiness" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/health/2022/05/22/bhutada</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/health/2022/05/22/bhutada.html"><![CDATA[<p><b>Author: Neil Bhutada</b></p>
+close to instrumental music) in their overall music.</p>]]></content><author><name></name></author><category term="arts" /><summary type="html"><![CDATA[Author: Varsha Bhandari]]></summary></entry><entry><title type="html">World Happiness</title><link href="http://localhost:4000/portfolio_site_s22/society/2022/05/22/bhutada.html" rel="alternate" type="text/html" title="World Happiness" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/society/2022/05/22/bhutada</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/society/2022/05/22/bhutada.html"><![CDATA[<p><b>Author: Neil Bhutada</b></p>
 
-<p>Description: The World Happiness Report 2022 app allows the user to analyze the
+<p><b><a href="https://neilbhutada.shinyapps.io/Portfolio-3/">Click here to visit the interactive app.</a></b></p>
+
+<p>The World Happiness Report 2022 app allows the user to analyze the
 happiness scores  around the world. The user can see happiness score
 distributions on the histogram and world map
-and see the break-down of the scores in the data table. <a href="https://neilbhutada.shinyapps.io/Portfolio-3/">Click here to visit the
-interactive app.</a></p>]]></content><author><name></name></author><category term="health" /><summary type="html"><![CDATA[Author: Neil Bhutada]]></summary></entry><entry><title type="html">Starbucks</title><link href="http://localhost:4000/portfolio_site_s22/health/2022/05/22/buley.html" rel="alternate" type="text/html" title="Starbucks" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/health/2022/05/22/buley</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/health/2022/05/22/buley.html"><![CDATA[<p><b>Author: Kelsey Buley</b></p>
+and see the break-down of the scores in the data table.</p>]]></content><author><name></name></author><category term="society" /><summary type="html"><![CDATA[Author: Neil Bhutada]]></summary></entry><entry><title type="html">Starbucks</title><link href="http://localhost:4000/portfolio_site_s22/health/2022/05/22/buley.html" rel="alternate" type="text/html" title="Starbucks" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/health/2022/05/22/buley</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/health/2022/05/22/buley.html"><![CDATA[<p><b>Author: Kelsey Buley</b></p>
 
-<p>Description: A histogram depicting the total fat content by type of milk used of Grande Starbucks
+<p><b><a href="https://data-viz.it.wisc.edu/connect/#/apps/04eb92ed-4306-4733-ac04-dfafb3e851b2/access/93">Read the portfolio by clicking here.</a></b></p>
+
+<p>A histogram depicting the total fat content by type of milk used of Grande Starbucks
 drinks.  A scatterplot depicting the total calories vs. sugar content by type of milk used of
-Grande Starbucks drinks. <a href="https://data-viz.it.wisc.edu/connect/#/apps/04eb92ed-4306-4733-ac04-dfafb3e851b2/access/93">Read the portfolio by clicking here.</a></p>]]></content><author><name></name></author><category term="health" /><summary type="html"><![CDATA[Author: Kelsey Buley]]></summary></entry><entry><title type="html">2014 - 2015 Basketball Shots</title><link href="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/chenj.html" rel="alternate" type="text/html" title="2014 - 2015 Basketball Shots" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/sports/2022/05/22/chenj</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/chenj.html"><![CDATA[<p><b>Author: Jack Chen</b></p>
+Grande Starbucks drinks.</p>]]></content><author><name></name></author><category term="health" /><summary type="html"><![CDATA[Author: Kelsey Buley]]></summary></entry><entry><title type="html">2014 - 2015 Basketball Shots</title><link href="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/chenj.html" rel="alternate" type="text/html" title="2014 - 2015 Basketball Shots" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/sports/2022/05/22/chenj</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/chenj.html"><![CDATA[<p><b>Author: Jack Chen</b></p>
 
-<p>Description: This personal portfolio presents a visualization of the Data on shots taken during the
-2014-2015 season. The main graphs are the shot clock and field goal Results showing the
-remaining shot clock and the shot attempts in every second remaining with the color
-differentiating the made and miss outcome. The second graph shows the shot distance and the
-defender’s distance having the decision on differentiating the shot by their points type or shot
-result. The remaining graphs show the shot distance density and the count of shots by points type
-for your information. <a href="https://data-viz.it.wisc.edu/content/17c066c7-339e-45d4-9562-fc2e57c04b7c">Click here to visit the interactive app.</a></p>]]></content><author><name></name></author><category term="sports" /><summary type="html"><![CDATA[Author: Jack Chen]]></summary></entry><entry><title type="html">Incorporation and Population</title><link href="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/cheny.html" rel="alternate" type="text/html" title="Incorporation and Population" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/sports/2022/05/22/cheny</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/cheny.html"><![CDATA[<p><b>Author: Yunzikai Chen</b></p>
+<p><b><a href="https://data-viz.it.wisc.edu/content/17c066c7-339e-45d4-9562-fc2e57c04b7c">Click here to visit the interactive app.</a></b></p>
 
-<p>Description: The  datasets  I  selected  for  this  portfolio  are  the  geographic  location  and  the  population  of
-California cities, and I hope to help people who want to settle in California in the future find
-suitable cities according to their different preferences for factors such as geographic location,
-year  of  incorporation,  and  population.  Regarding  the  visualization,  I  applied  the  linked
-brushing to create two scatterplots of geographic location and regression and one point plot,
-and  there’s  also  a  static  bar  plot.  The  plots  show  that  there  is  a  slight  negative  correlation
-between the year of incorporation and population.
-<a href="https://data-viz.it.wisc.edu/content/b80351fb-455c-4267-9fe8-f58dafdc7827">Click here to visit the interactive app.</a></p>]]></content><author><name></name></author><category term="sports" /><summary type="html"><![CDATA[Author: Yunzikai Chen]]></summary></entry><entry><title type="html">Stock Prices</title><link href="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chenz.html" rel="alternate" type="text/html" title="Stock Prices" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chenz</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chenz.html"><![CDATA[<p><b>Author: Zhijiang Chen</b></p>
+<p>This personal portfolio presents a visualization of the Data on shots taken
+during the 2014-2015 season. The main graphs are the shot clock and field goal
+Results showing the remaining shot clock and the shot attempts in every second
+remaining with the color differentiating the made and miss outcome. The second
+graph shows the shot distance and the defender’s distance having the decision on
+differentiating the shot by their points type or shot result. The remaining
+graphs show the shot distance density and the count of shots by points type for
+your information.</p>]]></content><author><name></name></author><category term="sports" /><summary type="html"><![CDATA[Author: Jack Chen]]></summary></entry><entry><title type="html">Incorporation and Population</title><link href="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/cheny.html" rel="alternate" type="text/html" title="Incorporation and Population" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/sports/2022/05/22/cheny</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/sports/2022/05/22/cheny.html"><![CDATA[<p><b>Author: Yunzikai Chen</b></p>
 
-<p>Description: The first plot is the comparison of the price trend of “AAPL”, “DIA”, “GOOG”, “QQQ”, and
-“SPY”. The second plot is the monthly mean return of these stocks in different years. AAPL
-performs best in most years.
-<a href="https://data-viz.it.wisc.edu/content/aff36466-5cb4-47da-94e4-f73b1bdc27d8">Read the portfolio by clicking here.</a></p>]]></content><author><name></name></author><category term="finance" /><summary type="html"><![CDATA[Author: Zhijiang Chen]]></summary></entry><entry><title type="html">IMDB Top 1000 Movies</title><link href="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chu.html" rel="alternate" type="text/html" title="IMDB Top 1000 Movies" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chu</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chu.html"><![CDATA[<p><b>Author: Sirui Chu</b></p>
+<p><b><a href="https://data-viz.it.wisc.edu/content/b80351fb-455c-4267-9fe8-f58dafdc7827">Click here to visit the interactive app.</a></b></p>
 
-<p>Description: The portfolio is an interactive interface that allows users to examine the relationship
+<p>The  datasets  I  selected  for  this  portfolio  are  the  geographic  location
+and  the  population  of California cities, and I hope to help people who want
+to settle in California in the future find suitable cities according to their
+different preferences for factors such as geographic location, year  of
+incorporation,  and  population.  Regarding  the  visualization,  I  applied
+the  linked brushing to create two scatterplots of geographic location and
+regression and one point plot, and  there’s  also  a  static  bar  plot.  The
+plots  show  that  there  is  a  slight  negative  correlation between the year
+of incorporation and population.</p>]]></content><author><name></name></author><category term="sports" /><summary type="html"><![CDATA[Author: Yunzikai Chen]]></summary></entry><entry><title type="html">Stock Prices</title><link href="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chenz.html" rel="alternate" type="text/html" title="Stock Prices" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chenz</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chenz.html"><![CDATA[<p><b>Author: Zhijiang Chen</b></p>
+
+<p><b><a href="https://data-viz.it.wisc.edu/content/aff36466-5cb4-47da-94e4-f73b1bdc27d8">Read the portfolio by clicking here.</a></b></p>
+
+<p>The first plot is the comparison of the price trend of “AAPL”, “DIA”, “GOOG”,
+“QQQ”, and “SPY”. The second plot is the monthly mean return of these stocks in
+different years. AAPL performs best in most years.</p>]]></content><author><name></name></author><category term="finance" /><summary type="html"><![CDATA[Author: Zhijiang Chen]]></summary></entry><entry><title type="html">IMDB Top 1000 Movies</title><link href="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chu.html" rel="alternate" type="text/html" title="IMDB Top 1000 Movies" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chu</id><content type="html" xml:base="http://localhost:4000/portfolio_site_s22/finance/2022/05/22/chu.html"><![CDATA[<p><b>Author: Sirui Chu</b></p>
+
+<p><b><a href="https://data-viz.it.wisc.edu/content/fb4f2eff-794f-4454-b1ce-9608db268b30">Click here to visit the interactive app.</a></b></p>
+
+<p>The portfolio is an interactive interface that allows users to examine the relationship
 between the numeric variables in the top 1000 IMDB movies dataset from Kaggle. The users
 can select movies with specific genres. Also, it allows the users to choose the numeric variables
-plotted on the axes and also shows the distribution of the certificate of the movies selected.
-<a href="https://data-viz.it.wisc.edu/content/fb4f2eff-794f-4454-b1ce-9608db268b30">Click here to visit the interactive app.</a></p>]]></content><author><name></name></author><category term="finance" /><summary type="html"><![CDATA[Author: Sirui Chu]]></summary></entry></feed>
+plotted on the axes and also shows the distribution of the certificate of the movies selected.</p>]]></content><author><name></name></author><category term="finance" /><summary type="html"><![CDATA[Author: Sirui Chu]]></summary></entry></feed>

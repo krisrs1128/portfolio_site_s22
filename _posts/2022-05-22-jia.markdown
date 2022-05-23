@@ -8,8 +8,9 @@ img: "/portfolio_site_s22/assets/thumbnails/jia.png"
 
 <b>Author: Jingyun Jia</b>
 
-Description: This App gives an intuition of covid-19 spread trend. And we aim to investigate the covid pattern in countries and by seasons.
-<a href="https://data-viz.it.wisc.edu/content/c47f9610-9d32-4d91-b9a2-3ab7330ff070">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/c47f9610-9d32-4d91-b9a2-3ab7330ff070">Click here to visit the interactive app.</a></b>
+
+This App gives an intuition of covid-19 spread trend. And we aim to investigate the covid pattern in countries and by seasons.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

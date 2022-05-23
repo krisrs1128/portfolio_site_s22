@@ -8,12 +8,14 @@ img: "/portfolio_site_s22/assets/thumbnails/battula.png"
 
 <b>Author: Supraja Battula</b>
 
-Description: Uber and Lyft have grown extremely popular, and my visualizations aim to show the
+<b><a href="https://data-viz.it.wisc.edu/connect/#/apps/9b1a0bc0-0fed-4fc7-8b72-859f8e10d7a4">Read the portfolio by clicking here.</a></b>
+
+Uber and Lyft have grown extremely popular, and my visualizations aim to show the
 differences between the two major companies to see which is more affordable. On the top, the
 left graph shows which service is more widely used and, on the right, the plot shows the
 relationship between price and distance across various Boston locations. On the bottom, the left
 graph shows how price and distance are related for the various car types offered and the right
-shows a heatmap of how the surge multiplier is affected at various hours and destinations. <a href="https://data-viz.it.wisc.edu/connect/#/apps/9b1a0bc0-0fed-4fc7-8b72-859f8e10d7a4">Read the portfolio by clicking here.</a>
+shows a heatmap of how the surge multiplier is affected at various hours and destinations.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
