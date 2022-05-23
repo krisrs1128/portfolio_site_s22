@@ -1,15 +1,19 @@
 ---
 layout: book
-title:  ""
+title:  "UFC Fights"
 date:   2022-05-22 15:47:21 -0500
-categories:
+categories: sports
 img: "/portfolio_site_s22/assets/thumbnails/locey.png"
+pdf: "/assets/pdfs/locey.html"
 ---
 
 <b>Author: Kaden Locey</b>
 
-Description:
-<a href="https://data-viz.it.wisc.edu/content/4fb174b7-0dfa-4dfd-862b-a7c064e73982">Read the portfolio by clicking here.</a>
+Description: This portfolio looks at UFC fights from 2010 to 2020. Focusing on
+betting  odds and fight locations, it looks to see if there are patterns of
+winners based on Vegas odds  and where the fights were occurring to see if the
+sport has grown more internationally.  
+<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
