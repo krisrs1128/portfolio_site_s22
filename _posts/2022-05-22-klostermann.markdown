@@ -3,7 +3,7 @@ layout: book
 title:  ""
 date:   2022-05-22 15:47:21 -0500
 categories:
-img: "/portfolio_site_s22/assets/thumbnails/klostermann.png"
+img: "/portfolio_site_s22/assets/thumbnails/ko.png"
 ---
 
 <b>Author: Caitlyn Klostermann</b>

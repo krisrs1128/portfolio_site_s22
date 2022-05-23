@@ -2,7 +2,7 @@
 layout: book
 title:  "Chocolate Ratings"
 date:   2022-05-22 15:47:21 -0500
-categories: arts
+categories: ["food and drink"]
 img: "/portfolio_site_s22/assets/thumbnails/guzman_cruz.png"
 ---
 
