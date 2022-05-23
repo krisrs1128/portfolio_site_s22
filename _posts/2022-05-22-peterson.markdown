@@ -1,0 +1,22 @@
+---
+layout: book
+title: Human Resources Analytics
+date: 2022-05-22 15:47:21 -0500
+categories: management
+img: "/portfolio_site_s22/assets/thumbnails/peterson.png"
+---
+
+<b>Author: Samuel Peterson</b>
+
+Description: After failing to land a data-oriented internship, I found myself
+working as an intern in a  compensation department within Human Resources at a
+firm. Although I was originally  demoralized that I could not land a
+data-oriented role, I quickly found opportunities to  implement my data science
+skill set on a wide range of HR data related to performance,  compensation,
+attrition, tenure, and more. This mock HR data set from Kaggle allowed me to
+expand upon my visualization skills of HR data.
+<a href="https://data-viz.it.wisc.edu/content/035ccc34-d04f-4ad6-a52d-cc3605a9055b">Read the portfolio by clicking here.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

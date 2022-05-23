@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content=""><title>Meteorite Landings | Visualization Portfolio - STAT 479 Spring 2022</title>
+  <meta name="keywords" content="">
+  <meta name="description" content=""><link rel="stylesheet" href="/portfolio_site_s22/assets/main.css?v=0.3.3" />
+<script src="/portfolio_site_s22/assets/main.js?v=0.3.3" defer></script></head>
+<body class="body-book">
+    <div class="book sidebar-right"><a href="/portfolio_site_s22/" class="logo"><h1>Visualization Portfolio - STAT 479 Spring 2022</h1>
+</a><div class="book__cover">
+    <img src="/portfolio_site_s22/assets/thumbnails/sunh.png" class="book__img" alt="Meteorite Landings"/>
+  </div>
+  <div class="book__content">
+    <div class="book__content_inner">
+      <h1 class="book__title">Meteorite Landings</h1>
+      <div class="book__desc">
+        <p><b>Author: Haoxuan Sun</b></p>
+
+<p>Description: My interest of this visualization is to find out the pattern within
+meteorite landing across the world and in the U.S. The dataset is from Kaggle
+and containing name, id, type, class, mass, whether the landing is observed,
+year, and coordinates. My visualization contains two parts: Visualization of
+Meteor Landing Spatial Data, and Visualization of Meteor Landing Time Series
+Data.</p>
+
+<p>Visualization of global spatial data help answers two questions; whether the
+meteors’ landing is seen by people, and what is the mass of each meteor. I
+convert the data frame into an sf object and plot out the points on the world to
+answer the first question. I encoded the size of points with mass of the meteors
+to visualize their mass. My visualization of U.S. meteor data answers where and
+when did the meteors landed on the U.S. mainland, and what is the mass of them.
+I encoded the points’ size with mass and color with year, so the larger points
+show larger mass, deeper color shows more recent landings.</p>
+
+<p>Visualization of meteorite landing time series data helps answer the question
+that how the number of meteors landings on Earth changes over time is, and how
+is the number of observed and found meteors differ. I convert original data
+frame into a time series and visualizing it with <code class="language-plaintext highlighter-rouge">geom_line()</code> with faceting by
+its landing is seen or not. Since there are far more meteors that are found than
+seen, I choose the free scales to make the height of the graph visible.
+<a href="https://data-viz.it.wisc.edu/content/0fbc8d7a-6d69-49df-80ab-4f9a4f96cb69">Read the portfolio by clicking here.</a></p>
+
+
+      </div><a href="/portfolio_site_s22/education/2022/05/22/sunz.html" class="book__more">
+        <div class="book__icon">
+          <svg width="80" height="80">
+            <circle class="circle-progress" r="36" cy="40" cx="40"  stroke-linejoin="round" stroke-linecap="round" />
+          </svg>
+          <span class="book__icon_arrow"></span>
+        </div>
+      </a></div><footer class="site-footer">
+  © 2022<a href="/portfolio_site_s22/">Visualization Portfolio - STAT 479 Spring 2022</a>. Theme<a href="https://github.com/erlzhang/jekyll-theme-persephone" target="_blank">Persephone</a>
+</footer>
+</div>
+</div>
+
+  </body>
+</html>

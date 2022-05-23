@@ -1,15 +1,25 @@
 ---
 layout: book
-title:
+title: Favored NFL Teams Since 2000
 date: 2022-05-22 15:47:21 -0500
-categories:
+categories: sports
 img: "/portfolio_site_s22/assets/thumbnails/obrien.png"
 ---
 
 <b>Author: Logan O'Brien</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: Anyone interested in betting on football games generally
+understands the game, the teams, and the odds at hand. However, sometimes
+personal knowledge isn’t enough, especially when money is at risk. This
+application is designed to help bettors make smarter decisions regarding the
+spread and over/under lines for games. Combining betting data since 2000, the
+application offers several plots to help users search for trends regarding the
+favored team, as well as a table to search for opponents and compare the teams
+and the result of those games. While some may say that no bet is a smart bet,
+there is a lot of enjoyment to be found in betting on NFL games. With the help
+of this application, bettors can make sound decisions and be more confident in
+the money they are investing.
+<a href="https://data-viz.it.wisc.edu/content/d9e6f2fb-14bc-4e3a-9852-cae193e0aef9">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

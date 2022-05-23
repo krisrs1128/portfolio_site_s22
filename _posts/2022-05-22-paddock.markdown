@@ -1,15 +1,19 @@
 ---
 layout: book
-title:
+title: March Madness
 date: 2022-05-22 15:47:21 -0500
-categories:
+categories: sports
 img: "/portfolio_site_s22/assets/thumbnails/paddock.png"
 ---
 
-<b>Author: Brandon Paddock</b>
+<b>Author: Brenden Paddock</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: This is an interactive shiny application for the March Madness
+tournament in 2021.  You can select and compare statistics of any two teams in
+the tournament from 2021 and see how they stacked up against each other. Play
+around and compare with endless combinations of teams!
+
+<a href="https://data-viz.it.wisc.edu/content/9e79e6fd-d146-422e-b115-e6086a52f7f3">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -1,15 +1,17 @@
 ---
 layout: book
-title:
+title: Byrun Buxton Hitting Charts
 date: 2022-05-22 15:47:21 -0500
-categories:
+categories: sports
 img: "/portfolio_site_s22/assets/thumbnails/ng.png"
+pdf: "/assets/pdfs/ng.html"
 ---
 
 <b>Author: Sherman Ng</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: I’m investigating the hitting charts of Minnesota Twins outfielder Byron
+Buxton. I used data from BaseballSavant.com in order to create some visualizations of
+Buxton’s hits in the 2021 season. <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
