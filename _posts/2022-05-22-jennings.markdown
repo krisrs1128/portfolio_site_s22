@@ -4,7 +4,7 @@ title:  ""
 date:   2022-05-22 15:47:21 -0500
 categories:
 img: "/portfolio_site_s22/assets/thumbnails/jennings.png"
-pdf: "/assets/pdfs/jenings.html"
+pdf: "/assets/pdfs/jennings.html"
 ---
 
 <b>Author: Owen Jennings</b>
