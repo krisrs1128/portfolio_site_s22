@@ -3,17 +3,16 @@ layout: book
 title: Work Hours across the Globe
 date: 2022-05-22 15:47:21 -0500
 categories: health
-img: "/portfolio_site_s22/assets/thumbnails/zhao.jpeg"
+img: "/portfolio_site_s22/assets/thumbnails/zhao.jpg"
 ---
 
 <b>Author: Zixuan Zhao</b>
+<b><a href="https://data-viz.it.wisc.edu/content/f4a85f43-85b8-43f6-b2f8-c9ee46f6d9c5">Link</a></b>
 
-Description: How  different  are  the  working  hours  in  different
-countries?  Is  there  any  relationship  between hours worked and per capita
-GDP? How people in different countries allocate  their  time?  This  APP
-provides  an  interactive  tool  to  answer  these  questions.  There’s  also
-more to discover...
-<a href="https://data-viz.it.wisc.edu/content/f4a85f43-85b8-43f6-b2f8-c9ee46f6d9c5">Click here to visit the interactive app.</a>
+How  different  are  the  working  hours  in  different countries?  Is  there
+any  relationship  between hours worked and per capita GDP? How people in
+different countries allocate  their  time?  This  APP provides  an  interactive
+tool  to  answer  these  questions.  There’s  also more to discover...
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
