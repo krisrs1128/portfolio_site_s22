@@ -1,0 +1,19 @@
+---
+layout: book
+title:  "World Happiness"
+date:   2022-05-22 15:47:21 -0500
+categories: health
+img: "/portfolio_site_s22/assets/thumbnails/bhutada.png"
+---
+
+<b>Author: Neil Bhutada</b>
+
+Description: The World Happiness Report 2022 app allows the user to analyze the
+happiness scores  around the world. The user can see happiness score
+distributions on the histogram and world map
+and see the break-down of the scores in the data table. <a href="https://neilbhutada.shinyapps.io/Portfolio-3/">Click here to visit the
+interactive app.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

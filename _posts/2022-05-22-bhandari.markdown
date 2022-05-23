@@ -1,0 +1,22 @@
+---
+layout: book
+title:  "200 Popular Artists"
+date:   2022-05-22 15:47:21 -0500
+categories: arts
+img: "/portfolio_site_s22/assets/thumbnails/bhandari.jpeg"
+---
+
+<b>Author: Varsha Bhandari</b>
+
+Description: This visualization presents the top 200 most popular artists, based
+on Billboard’s top 100, in a scatter plot of spotify popularity and the most
+number of weeks spent in Billboard’s top 100. The first scatter plot gives
+insight into the artists’ energy (fast/loud tracks score higher energy value)
+and danceability (0 being least danceable/groovy) in their overall music. The
+second scatter plot presents information about the artists’ valence (low valence
+being sad or negative) and speechiness (.3 being more rap and low value being
+close to instrumental music) in their overall music. <a href="https://data-viz.it.wisc.edu/connect/#/apps/d9e1bb3d-57fa-41ea-b3e0-a60391f879d9">Read the portfolio by clicking here.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
