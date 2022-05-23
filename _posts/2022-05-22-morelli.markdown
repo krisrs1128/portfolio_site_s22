@@ -1,15 +1,18 @@
 ---
 layout: book
-title:
+title: Corbin Burnes Pitches
 date: 2022-05-22 15:47:21 -0500
 categories:
-img: "/portfolio_site_s22/assets/thumbnails/morelli.png"
+img: "/portfolio_site_s22/assets/thumbnails/morelli.jpeg"
+pdf: "/assets/pdfs/morelli.pdf"
 ---
 
-<b>Author: Eddie Morelli</b>
+<b>Author: Eduardo Morelli</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: Milwaukee Brewers’ pitcher Corbin Burnes won the 2021 NL Cy Young
+Award while collecting the third-most strikeouts in the league. What pitches
+were most critical to Burnes’ success?
+<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
