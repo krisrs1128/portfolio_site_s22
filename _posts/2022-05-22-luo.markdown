@@ -1,0 +1,20 @@
+---
+layout: book
+title: Data Science Salaries
+date: 2022-05-22 15:47:21 -0500
+categories: economics
+img: "/portfolio_site_s22/assets/thumbnails/luo.png"
+pdf: "/assets/pdfs/luo.html"
+---
+
+<b>Author: Yan Luo</b>
+
+Description: This dataset includes  Job Title, Location of the job, Range of
+salary, Required Degree and so on (of Data Science in the USA),  which can help
+me gain insight into my confusion. I created an interactive map to provide a
+visualization  of the salaries of data scientists in different companies in the
+U.S. <a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

@@ -1,15 +1,18 @@
 ---
 layout: book
-title:
+title: US Unemployment, GDP, and Education
 date: 2022-05-22 15:47:21 -0500
-categories:
+categories: economics
 img: "/portfolio_site_s22/assets/thumbnails/lu.png"
+pdf: "/assets/pdfs/lu.html"
 ---
 
 <b>Author: Kechen Lu</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: I use the dataset containing the unemployment rate, gdp and
+education level of each state in the US. These data are recorded on a monthly
+basis and give a time span of development through data visualization.
+<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
