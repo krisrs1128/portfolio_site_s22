@@ -3,10 +3,11 @@ layout: book
 title: Work Hours across the Globe
 date: 2022-05-22 15:47:21 -0500
 categories: health
-img: "/portfolio_site_s22/assets/thumbnails/zhao.jpg"
+img: "/portfolio_site_s22/assets/thumbnails/zhao.png"
 ---
 
 <b>Author: Zixuan Zhao</b>
+
 <b><a href="https://data-viz.it.wisc.edu/content/f4a85f43-85b8-43f6-b2f8-c9ee46f6d9c5">Link</a></b>
 
 How  different  are  the  working  hours  in  different countries?  Is  there
