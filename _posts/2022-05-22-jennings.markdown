@@ -1,8 +1,8 @@
 ---
 layout: book
-title:  ""
+title:  "State Minimum Wages"
 date:   2022-05-22 15:47:21 -0500
-categories:
+categories: Economics
 img: "/portfolio_site_s22/assets/thumbnails/jennings.png"
 pdf: "/assets/pdfs/jennings.html"
 ---
