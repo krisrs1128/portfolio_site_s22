@@ -1,15 +1,18 @@
 ---
 layout: book
-title:  ""
+title:  "Salary Insights"
 date:   2022-05-22 15:47:21 -0500
-categories:
+categories: economics
 img: "/portfolio_site_s22/assets/thumbnails/kennedy.png"
 ---
 
 <b>Author: Peter Kennedy</b>
 
-Description:
-<a href="https://data-viz.it.wisc.edu/content/4fb174b7-0dfa-4dfd-862b-a7c064e73982">Read the portfolio by clicking here.</a>
+Description: On this Shiny App, users can explore different factors that affect annual salary - such as gender,
+number of years in industry, highest level of education, and more - using an interactive
+scatterplot. The user is also accompanied by a data frame that where they can explore the data
+in a tabular fashion to get more insights.
+<a href="https://data-viz.it.wisc.edu/content/95feaaa4-2041-468d-9008-5be208477f9d">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

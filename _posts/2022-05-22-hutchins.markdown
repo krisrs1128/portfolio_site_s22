@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  ""
+title:  "Elections and COVID-19"
 date:   2022-05-22 15:47:21 -0500
 categories: health
 img: "/portfolio_site_s22/assets/thumbnails/hutchins.png"
