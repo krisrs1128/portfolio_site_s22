@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Formula 1"
+title:  "Formula 1 Racing"
 date:   2022-05-22 15:47:21 -0500
 categories: sports
 img: "/portfolio_site_s22/assets/thumbnails/diaz.png"

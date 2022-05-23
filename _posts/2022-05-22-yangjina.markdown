@@ -7,9 +7,10 @@ img: "/portfolio_site_s22/assets/thumbnails/yangjina.png"
 ---
 
 <b>Author: Jina Yang</b>
-<b>
+
+<em>
   <a href="https://data-viz.it.wisc.edu/content/2da95cc4-7b67-4aa2-b0e5-b557ad9c5d71">Link</a>
-</b>
+</em>
 
 
 Description: (Figure 1) The type of attacks that led to deaths in each country are aligned
