@@ -9,10 +9,11 @@ pdf: "/assets/pdfs/liuj.pdf"
 
 <b>Author: Jianzhuo Liu</b>
 
-Description: This project is trying to analyze the weather condition among
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+This project is trying to analyze the weather condition among
 several cities and make comparisons. We focused on temperature, windspeed,
 rainfall, humidity and so on.
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

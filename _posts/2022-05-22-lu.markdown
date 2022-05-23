@@ -9,10 +9,11 @@ pdf: "/assets/pdfs/lu.html"
 
 <b>Author: Kechen Lu</b>
 
-Description: I use the dataset containing the unemployment rate, gdp and
-education level of each state in the US. These data are recorded on a monthly
-basis and give a time span of development through data visualization.
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+I use the dataset containing the unemployment rate, gdp and education level of
+each state in the US. These data are recorded on a monthly basis and give a time
+span of development through data visualization.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

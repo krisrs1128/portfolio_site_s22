@@ -2,17 +2,18 @@
 layout: book
 title: Traffic Accidents in United States
 date: 2022-05-22 15:47:21 -0500
-categories: health
+categories: society
 img: "/portfolio_site_s22/assets/thumbnails/mi.png"
 ---
 
 <b>Author: Chenying Mi</b>
 
-Description: The aim of this portfolio project is to find and compare traffic
-accidents between states in 2020. There are five visualizations in total
-including boxplot, US maps, line plot, and bar plot. Each graph can provide
-opportunity for audience to compare accident situation in different aspects.  
-<a href="https://data-viz.it.wisc.edu/content/1cb0dea9-5ecd-4646-8915-9d4d7681c116">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/1cb0dea9-5ecd-4646-8915-9d4d7681c116">Click here to visit the interactive app.</a></b>
+
+The aim of this portfolio project is to find and compare traffic accidents
+between states in 2020. There are five visualizations in total including
+boxplot, US maps, line plot, and bar plot. Each graph can provide opportunity
+for audience to compare accident situation in different aspects.  
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

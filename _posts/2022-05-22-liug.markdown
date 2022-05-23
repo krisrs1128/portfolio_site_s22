@@ -8,9 +8,10 @@ img: "/portfolio_site_s22/assets/thumbnails/liug.png"
 
 <b>Author: George Liu</b>
 
-Description: Revisit public and investor sentiment of acute inflation in Spring 2022 and concerns of deflation
+<b><a href="https://george-liu-profile.shinyapps.io/Inflation_and_Deflation_in_2022_and_Beyond">Click here to visit the interactive app.</a></b>
+
+Revisit public and investor sentiment of acute inflation in Spring 2022 and concerns of deflation
 looming on the horizon.
-<a href="https://george-liu-profile.shinyapps.io/Inflation_and_Deflation_in_2022_and_Beyond">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -8,16 +8,16 @@ img: "/portfolio_site_s22/assets/thumbnails/lyu.png"
 
 <b>Author: Zhihao Lyu</b>
 
-Description: This is the visualization of Augsburg’s city land cover
-classification data set, which contains a land cover mapping and multi-modal
-remote sensing data, which includes 180 bands Hyper-Spectral(HS) image, 4 bands
-Synthetic Aperture Radar(SAR) data, and a Digital Surface Model(DSM). You can -
-brush the land mapping, or select classes and train/test set - click “Select &
-Plot” button, the plots will be re-rendered with the corresponding pixels
-highlighted; click “Reset” all samples will be diselected. - choose wether to
-fix x/y axis of the histograms; choose whether standardize the data and remove
-outliers.
-<a href="https://alexhaoge.shinyapps.io/STAT479-Portfolio4/">Click here to visit the interactive app.</a>
+<b><a href="https://alexhaoge.shinyapps.io/STAT479-Portfolio4/">Click here to visit the interactive app.</a></b>
+
+This is the visualization of Augsburg’s city land cover classification data set,
+which contains a land cover mapping and multi-modal remote sensing data, which
+includes 180 bands Hyper-Spectral(HS) image, 4 bands Synthetic Aperture
+Radar(SAR) data, and a Digital Surface Model(DSM). You can - brush the land
+mapping, or select classes and train/test set - click “Select & Plot” button,
+the plots will be re-rendered with the corresponding pixels highlighted; click
+“Reset” all samples will be diselected. - choose wether to fix x/y axis of the
+histograms; choose whether standardize the data and remove outliers.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -8,11 +8,12 @@ img: "/portfolio_site_s22/assets/thumbnails/liao.png"
 
 <b>Author: Xucen Liao</b>
 
-Description: In this portfolio, I analyzed the difference in salary of data-science careers due to job positions
+<b><a href="https://data-viz.it.wisc.edu/content/9221edb5-67cb-4499-930d-8e62da91069b">Read the portfolio by clicking here.</a></b>
+
+In this portfolio, I analyzed the difference in salary of data-science careers due to job positions
 with different levels and company size. I hope the information from this portfolio can help
 students find a satisfying job with a high salary based on the consideration of job positions and
 company types.
-<a href="https://data-viz.it.wisc.edu/content/9221edb5-67cb-4499-930d-8e62da91069b">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

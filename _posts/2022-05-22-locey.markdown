@@ -9,11 +9,12 @@ pdf: "/assets/pdfs/locey.html"
 
 <b>Author: Kaden Locey</b>
 
-Description: This portfolio looks at UFC fights from 2010 to 2020. Focusing on
-betting  odds and fight locations, it looks to see if there are patterns of
-winners based on Vegas odds  and where the fights were occurring to see if the
-sport has grown more internationally.  
-<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
+<b><a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a></b>
+
+This portfolio looks at UFC fights from 2010 to 2020. Focusing on betting  odds
+and fight locations, it looks to see if there are patterns of winners based on
+Vegas odds  and where the fights were occurring to see if the sport has grown
+more internationally.  
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

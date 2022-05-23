@@ -2,17 +2,18 @@
 layout: book
 title: Mass Shooting in the US (2018-2021)
 date: 2022-05-22 15:47:21 -0500
-categories: health
+categories: society
 img: "/portfolio_site_s22/assets/thumbnails/mishra.png"
 ---
 
 <b>Author: Ayushi Mishra</b>
 
-Description: The portfolio “Mass Shooting in the US (2018-2021)” aims to analyze
-which states in the US  were safest to live in. It also examines how mass
-shooting and fatality rates changed over time  and also which areas/venues were
-highly susceptible to mass shooting.
-<a href="https://data-viz.it.wisc.edu/content/e734c415-2de1-4253-b4c0-1fb4edce1aa9">Click here to visit the interactive app.</a>
+<b><a href="https://data-viz.it.wisc.edu/content/e734c415-2de1-4253-b4c0-1fb4edce1aa9">Click here to visit the interactive app.</a></b>
+
+The portfolio “Mass Shooting in the US (2018-2021)” aims to analyze which states
+in the US  were safest to live in. It also examines how mass shooting and
+fatality rates changed over time  and also which areas/venues were highly
+susceptible to mass shooting.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
