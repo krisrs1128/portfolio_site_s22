@@ -1,0 +1,22 @@
+---
+layout: book
+title:  "Incorporation and Population"
+date:   2022-05-22 15:47:21 -0500
+categories: sports
+img: "/portfolio_site_s22/assets/thumbnails/cheny.png"
+---
+
+<b>Author: Yunzikai Chen</b>
+
+Description: The  datasets  I  selected  for  this  portfolio  are  the  geographic  location  and  the  population  of
+California cities, and I hope to help people who want to settle in California in the future find
+suitable cities according to their different preferences for factors such as geographic location,
+year  of  incorporation,  and  population.  Regarding  the  visualization,  I  applied  the  linked
+brushing to create two scatterplots of geographic location and regression and one point plot,
+and  there’s  also  a  static  bar  plot.  The  plots  show  that  there  is  a  slight  negative  correlation
+between the year of incorporation and population.
+<a href="https://data-viz.it.wisc.edu/content/b80351fb-455c-4267-9fe8-f58dafdc7827">Click here to visit the interactive app.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
