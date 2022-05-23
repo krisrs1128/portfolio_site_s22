@@ -3,13 +3,15 @@ layout: book
 title:
 date: 2022-05-22 15:47:21 -0500
 categories:
-img: "/portfolio_site_s22/assets/thumbnails/suski.png"
+img: "/portfolio_site_s22/assets/thumbnails/suski.jpeg"
 ---
 
 <b>Author: Michaela Suski</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: The following visualizations show where Survivor has taken place across time and space. The first design illustrates a
+chronological look of where each Survivor location was held while the second design plots each of these locations on the
+world map.
+<a href="https://data-viz.it.wisc.edu/content/9f722ee2-05b8-41a6-81ce-9b69401072fb">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
