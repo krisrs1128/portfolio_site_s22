@@ -1,15 +1,22 @@
 ---
 layout: book
-title:
+title: Risk Factors for Heart Disease
 date: 2022-05-22 15:47:21 -0500
-categories:
-img: "/portfolio_site_s22/assets/thumbnails/lu.png"
+categories: health
+img: "/portfolio_site_s22/assets/thumbnails/wan.png"
 ---
 
-<b>Author: Kechen Lu</b>
+<b>Author: Annabelle Wan</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: This Web App aims to use previous patients’ experiences to assess
+the factors that  affect heart disease to help hospitals assess the severity of
+heart disease in patients  easily at an early stage. By looking at the
+combination of heart disease related factors,  the shiny app allows users to see
+how many people in the database with the same  traits have or do not have heart
+disease. The shiny app mainly consists of three parts:  the selections, the bar
+plot of the number of people who do or do not have heart  disease under the
+selected factors, and the data table of corresponding patients.
+<a href="https://data-viz.it.wisc.edu/content/982a3a59-a970-4d38-bbf9-80275423758b">Click here to visit the interactive app.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

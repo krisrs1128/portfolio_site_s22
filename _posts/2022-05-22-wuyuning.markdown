@@ -3,10 +3,10 @@ layout: book
 title: Heart Disease Data Exploration
 date: 2022-05-22 15:47:21 -0500
 categories: health
-img: "/portfolio_site_s22/assets/thumbnails/wu.png"
+img: "/portfolio_site_s22/assets/thumbnails/wuyuning.png"
 ---
 
-<b>Author: Bella Wu</b>
+<b>Author: Yuning Wu</b>
 
 Description: As the largest single cause of death on the planet, heart disease
 is an important and life or death  matter. With increasing number of people of

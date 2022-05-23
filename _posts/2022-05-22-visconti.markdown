@@ -1,15 +1,18 @@
 ---
 layout: book
-title:
+title: South Park Dialog
 date: 2022-05-22 15:47:21 -0500
-categories:
-img: "/portfolio_site_s22/assets/thumbnails/visconti.png"
+categories: entertainment
+img: "/portfolio_site_s22/assets/thumbnails/visconti.jpeg"
+pdf: "/assets/pdfs/visconti.html"
 ---
 
 <b>Author: Michael Visconti</b>
 
-Description:
-<a href="">Click here to visit the interactive app.</a>
+Description: In these visualizations we explore the speech dynamics of popular
+South Park characters. The visualizations explore Kenny’s vocabulary and the
+relationship between Stan and Kyle’s spoke lines per episode.
+<a href="{{ page.pdf | relative_url }}">Read the portfolio by clicking here.</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
