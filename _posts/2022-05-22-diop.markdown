@@ -1,0 +1,18 @@
+---
+layout: book
+title:  "Car Sales"
+date:   2022-05-22 15:47:21 -0500
+categories: finance
+img: "/portfolio_site_s22/assets/thumbnails/diop.png"
+---
+
+<b>Author: Abdoul Diop</b>
+
+Description: The main goal is to observe the monthly trend of cars sold by manufacturers in 2021 to
+help make assumptions on a potential period to purchase a car. The second intent was to
+distinguish the amount of cars sold by manufacturers and compare them between one another to
+help make a potential assumption on which car to buy as well as in what period. <a href="https://data-viz.it.wisc.edu/content/5bc5d180-bf9a-4a3f-89bd-8e43ccd0c69b">Click here to visit the interactive app.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

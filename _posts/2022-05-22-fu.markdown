@@ -1,0 +1,20 @@
+---
+layout: book
+title:  "Finland Population Change"
+date:   2022-05-22 15:47:21 -0500
+categories: demography
+img: "/portfolio_site_s22/assets/thumbnails/fu.png"
+---
+
+<b>Author: Katherine Fu</b>
+
+Description: This portfolio project aims to show the population situations as well as the working situations in
+Finland in order to provide a general picture of how urbanization relates to the population
+migration to the big cities. It contains three interactive graphs: one showing the geometric
+distribution of offices in Finland, one displaying the population growth over time in each city,
+and one showing the growth countrywide. We can conclude from the graph that the population in
+Finland has grown over the year, especially in big cities, where most of the people work and live. <a href="https://data-viz.it.wisc.edu/content/f5e6346d-3497-4b0a-8818-7990935e5b2b">Click here to visit the interactive app.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

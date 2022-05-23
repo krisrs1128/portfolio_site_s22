@@ -1,0 +1,17 @@
+---
+layout: book
+title:  "Collegiate Sports Budgets"
+date:   2022-05-22 15:47:21 -0500
+categories: sports
+img: "/portfolio_site_s22/assets/thumbnails/dykstra.png"
+---
+
+<b>Author: Danah Dykstra</b>
+
+Description: This project aims to show the distribution of revenue and expenditure across sports by gender in the
+NCAA. Visualizations can show which genders in specific sports generate the most revenue for NCAA
+colleges. <a href="https://data-viz.it.wisc.edu/content/57adb0dd-b47b-48a9-863c-d4b7c6890765">Click here to visit the interactive app.</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
